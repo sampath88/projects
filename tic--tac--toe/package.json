@@ -1,7 +1,7 @@
 {
+  "homepage": "http://sampath-reddy.github.io/tic--tac--toe",
   "name": "tic--tac--toe",
   "version": "0.1.0",
-  "homepage": "http://sampath88.github.io/projects",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
